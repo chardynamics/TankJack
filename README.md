@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://gitlab.com/chardynamics/TankJack">
+  <a href="https://chardynamics.github.io/TankJack">
     <img src="https://raw.githubusercontent.com/chardynamics/TankJack/refs/heads/main/Thumbnail.png" alt="Logo" width="538" height="297">
   </a>
 
